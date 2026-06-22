@@ -20,7 +20,9 @@ You can download the latest APK from the **[Releases](https://github.com/Leonell
 4. The floating scissors icon will appear!
 
 ## Why I built this
-The “Share” option in Circle to Search has recently disappeared for many Pixel and Galaxy users, likely due to a Google app update or beta build issue. The quickest fix reported was resetting the Google app to factory defaults or switching from the beta version back to the stable release, but even that doesnt work with this latest Android 17 update. So i built a sollution. A lightweight tool specifically for *sharing* a quick snippet of a screen without leaving a trace of it on my device.
+The "Share" option in Circle to Search has recently disappeared for many Pixel and Galaxy users due to a Google app update. The quickest fix reported was resetting the Google app to factory defaults, but even that doesn't work with the latest Android 17 updates. 
+
+So I built a solution: a lightweight tool specifically for sharing a quick snippet of a screen without leaving a trace of it on my device. No heavy system integrations, no saving to your camera roll—just fast, instant sharing.
 
 ## Support the Developer ☕
 SnippetShare is completely free and open-source. If you find it useful and want to support a solo developer, you can buy me a coffee. (https://ko-fi.com/leoemmanuel)
